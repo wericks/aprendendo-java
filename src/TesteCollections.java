@@ -1,7 +1,7 @@
 
 public class TesteCollections {
 
-	public static void main(String[] args) {
+	public static void main( String[] args ) {
 		/* //Teste de performance
 		final int MAX = 20000;
 		long tempoInicio = System.currentTimeMillis ();
